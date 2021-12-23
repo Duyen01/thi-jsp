@@ -25,14 +25,14 @@
             crossorigin="anonymous"></script>
     <style type="text/css">
         .col-md-2 {
-            background-color: aqua;
+            background-color: #5f8aed;
         }
 
         .sidebar {
             margin: 0;
             padding: 0;
             width: 200px;
-            background-color: #eb98dc;
+            background-color: #AAAAAA;
             position: fixed;
             height: 100%;
             overflow: auto;
@@ -57,7 +57,7 @@
 <div class="sidebar">
     <h1 class="text-center">Customer</h1>
     <div style="margin-left:30px;">
-        <a href="http://localhost:8081/Final2_war_exploded/index" style="text-decoration: none;color:aqua;">
+        <a href="http://localhost:8081/Final2_war_exploded/index" style="text-decoration: none;color:black;">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list"
                  viewBox="0 0 16 16">
                 <path fill-rule="evenodd"
